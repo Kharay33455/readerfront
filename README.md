@@ -4,7 +4,7 @@ Simple web app to take a pdf document and highlight all occurence of a given sea
 
 ## To run this app
 
-1. fork code, create your own env file in root dir
+1. fork code, create your own env file in root dir assuming your back end server runs at 192.168.0.3. Edit accordingly
 
    ```
       EXPO_PUBLIC_ENV=DEV
